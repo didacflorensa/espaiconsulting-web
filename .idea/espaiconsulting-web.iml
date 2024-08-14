@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/_vendor" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="addressable (v2.8.7) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/tasks" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/tasks" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/addressable-2.8.7/tasks" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="colorator (v1.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/colorator-1.1.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/colorator-1.1.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="concurrent-ruby (v1.3.4) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/concurrent-ruby-1.3.4/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/concurrent-ruby-1.3.4/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/concurrent-ruby-1.3.4/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/concurrent-ruby-1.3.4/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/concurrent-ruby-1.3.4/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="em-websocket (v0.5.3) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/examples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/examples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/em-websocket-0.5.3/examples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="eventmachine (v1.2.7) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/.git" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/java" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/tests" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/examples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/.git" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/java" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/tests" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/examples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/.git" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/java" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/tests" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/bundler/gems/eventmachine-9cb13a8a6236/examples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ffi (v1.17.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/sig" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/samples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/sig" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/samples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/rakelib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/ffi-1.17.0-x86_64-darwin/samples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="forwardable-extended (v2.6.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/forwardable-extended-2.6.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/forwardable-extended-2.6.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="http_parser.rb (v0.8.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/bench" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/tasks" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/.github" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/bench" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/tasks" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/.github" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/bench" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/tasks" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/http_parser.rb-0.8.0/.github" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="i18n (v1.14.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/i18n-1.14.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/i18n-1.14.5/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll (v4.2.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/exe" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/rubocop" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/exe" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/rubocop" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/exe" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-4.2.2/rubocop" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-archives (v2.2.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-archives-2.2.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-archives-2.2.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-feed (v0.17.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-feed-0.17.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-feed-0.17.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-paginate-v2 (v3.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-paginate-v2-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-paginate-v2-3.0.0/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-paginate-v2-3.0.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-paginate-v2-3.0.0/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-paginate-v2-3.0.0/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-sass-converter (v2.2.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-sass-converter-2.2.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-sass-converter-2.2.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-seo-tag (v2.8.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/.github" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/.github" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/docs" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-seo-tag-2.8.0/.github" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-tagging (v1.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-tagging-1.1.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-tagging-1.1.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jekyll-watch (v2.2.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-watch-2.2.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/jekyll-watch-2.2.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kramdown (v2.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/man" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/man" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/man" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/data" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-2.4.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kramdown-parser-gfm (v1.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-parser-gfm-1.1.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/kramdown-parser-gfm-1.1.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="liquid (v4.0.4) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/liquid-4.0.4/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/liquid-4.0.4/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/liquid-4.0.4/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/liquid-4.0.4/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/liquid-4.0.4/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="listen (v3.9.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/listen-3.9.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/listen-3.9.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/listen-3.9.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/listen-3.9.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/listen-3.9.0/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mercenary (v0.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/examples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/examples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/script" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/mercenary-0.4.0/examples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="minima (v2.5.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_sass" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/assets" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_layouts" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_includes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_sass" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/assets" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_layouts" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_includes" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_sass" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/assets" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_layouts" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minima-2.5.1/_includes" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="nuggets (v1.6.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/nuggets-1.6.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/nuggets-1.6.1/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/nuggets-1.6.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/nuggets-1.6.1/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/nuggets-1.6.1/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pathutil (v0.16.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/pathutil-0.16.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/pathutil-0.16.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="public_suffix (v5.1.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/public_suffix-5.1.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/public_suffix-5.1.1/data" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/public_suffix-5.1.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/public_suffix-5.1.1/data" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/public_suffix-5.1.1/data" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rb-fsevent (v0.11.2) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-fsevent-0.11.2/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rb-inotify (v0.11.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/.github" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/.github" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/spec" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rb-inotify-0.11.1/.github" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rexml (v3.3.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rouge (v3.30.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rouge-3.30.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rouge-3.30.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rouge-3.30.0/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rouge-3.30.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rouge-3.30.0/bin" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="safe_yaml (v1.0.5) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/spec" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/spec" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/bin" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/safe_yaml-1.0.5/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sassc (v2.4.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/sassc-2.4.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="strscan (v3.1.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="terminal-table (v2.0.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/.github" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/examples" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/.github" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/examples" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/.github" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/terminal-table-2.0.0/examples" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="unicode-display_width (v1.8.0) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/unicode-display_width-1.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/unicode-display_width-1.8.0/data" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/unicode-display_width-1.8.0/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/unicode-display_width-1.8.0/data" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/unicode-display_width-1.8.0/data" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webrick (v1.8.1) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/webrick-1.8.1/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/webrick-1.8.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.4.12, ruby-2.6.10-p210) [gem]" level="application" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/.forestry/front_matter/templates" />
+      </list>
+    </option>
+  </component>
+</module>
