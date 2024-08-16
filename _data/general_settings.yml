@@ -1,19 +1,19 @@
 # General Settings
-title: "Snowlake premium jekyll template"
-email: "tortoizthemes@gmail.com"
-email_2: "support@tortoizthemes.com"
+title: "Espai Consulting 24"
+email: "didac@espaiconsulting.com"
+email_2: "jaume@espaiconsulting.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Snowlake is a multi-concept and powerful site template contains 
-  rich layouts with possibility of unlimited combinations & beautiful elements.
+  Espai Consulting 24 transforma ideas audaces en soluciones inteligentes, 
+  fusionando tecnología avanzada con estrategias innovadoras para revolucionar tu negocio. 
+  Tu visión, nuestro diseño: juntos construimos el futuro.
+black_logo_1x: "/assets/images/logo-espai-black.png"
+black_logo_2x: "/assets/images/logo-espai-black.png"
+light_logo_1x: "/assets/images/logo-light-espai-bg.png"
+light_logo_2x: "/assets/images/logo-light-espai-bg.png"
 
-black_logo_1x: "/assets/images/logo.png"
-black_logo_2x: "/assets/images/logo@2x.png"
-light_logo_1x: "/assets/images/logo-light.png"
-light_logo_2x: "/assets/images/logo-light@2x.png"
-
-address_01: 'Moonshine St. <br>14/05 Light City,<br /> London, United Kingdom'
-phone_number: "+00 (123) 456 78 90"
-copyright_text: "© 2021 Snowlake. All rights reserved."
+address_01: 'Tàrrega <br>Lleida<br /> España'
+phone_number: ""
+copyright_text: "© 2024 Espai Consulting 24. All rights reserved."
 
 google_analytics:
   enable: false
