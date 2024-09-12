@@ -1,33 +1,34 @@
 ---
 layout: page
-title: "We Are Snowlake"
+title: "Espai Consulting 24"
 sub_title: |
-  Branding agency that believes in the <br class="d-none d-lg-block" />power of creative ideas & great designs
-header_image: "/assets/images/art/bg31.jpg"
+  Somos una consultoria que transforma <br class="d-none d-lg-block" /> ideas audaces en soluciones inteligentes.
+header_image: "/assets/images/art/bg9.jpg"
 header_style: "one"
+white_menu: true
 
 about_area: 
   enable: true
-  title: "What We Do?"
-  sub_title: "We specialize in web, mobile, brand & product design. We love to turn ideas into beautiful things."
+  title: "¿Que hacemos?"
+  sub_title: "Somos especialistas en asesoria tecnológica, inteligencia artificial, analitica de datos avanzada y recreación de procesos reales. Nos encanta convertir ideas en soluciones reales y útiles."
   projects_number: 450
   project_tag: "Completed Projects"
   image: "/assets/images/art/about7.png"
   skills:
-    - title: "Web Development"
+    - title: "Asesoria"
       numbers: 100
       style: "pink"
 
-    - title: "Product Design"
-      numbers: 80
+    - title: "Inteligencia artificial"
+      numbers: 90
       style: "blue"
 
-    - title: "Identity & Branding"
+    - title: "Analitica avanzada"
       numbers: 85
       style: "green"
 
-    - title: "Mobile Development"
-      numbers: 90
+    - title: "Gemelos digitales"
+      numbers: 75
       style: "purple"
 
 video_area:
@@ -42,16 +43,16 @@ clients_carousel:
 
 teams_carousel:
   enable: true
-  type: "box"
+  type: "blob"
   title: |
-    Save your time and money <br class="d-none d-lg-block"> by choosing our professional team.
+    Estalvia tu tiempo y dinero <br class="d-none d-lg-block"> escogiendo nuestro equipo.
 
 contact_area:
   enable: true
-  title: "Contact Us"
+  title: "Contactnos"
   image: "/assets/images/art/map.png"
   sub_title: |
-   'Convinced yet? Let's make something great together. <br class="d-none d-lg-block">If you got any questions, don't hesitate to get in touch with us.'
+   'No estás convencido? Vamos a hacer grandes logros juntos <br class="d-none d-lg-block">Si tienes alguna pregunta, no dudes en contactar con nosotros'
   contact_data:
     - icon: "/assets/images/icons/ui-gps.png"
       info: "Moon Street Light Avenue<br> 14/05 Jupiter, JP 80630"
@@ -70,33 +71,11 @@ contact_area:
     <div class="container inner">
       {% if page.about_area.enable %}
         <div class="row align-items-center">
-          <div class="col-lg-6 order-lg-2 text-center">
-            <div>
-              {% if page.about_area.image %}
-              <figure>
-                <img src="{{page.about_area.image}}" alt="{{page.about_area.title}}"/>
-              </figure>
-              {% endif %}
-              <div class="row counter counter-s position-absolute" style="top: 45%; right: 8%;">
-                <div class="col-md-10 text-center">
-                  <div class="box bg-white shadow">
-                    {% if page.about_area.projects_number %}
-                     <h3><span class="value">{{page.about_area.projects_number}}</span>+</h3>
-                    {% endif %}
-                    {% if page.about_area.project_tag %}
-                     <p>{{page.about_area.project_tag}}</p>
-                    {% endif %}
-                  </div>
-                  <!--/.box -->
-                </div>
-                <!--/column -->
-              </div>
-              <!--/.row -->
-            </div>
+          <div class="col-lg-12 order-lg-2 text-center align-items-center">
           </div>
           <!--/column -->
           <div class="space30 d-none d-md-block d-lg-none"></div>
-          <div class="col-lg-6 pr-60 pr-md-15">
+          <div class="col-lg-12 pr-60 pr-md-15 align-items-center">
             {% if page.about_area.title %}
              <h2 class="section-title mb-20">{{ page.about_area.title }}</h2>
             {% endif %}
@@ -121,35 +100,15 @@ contact_area:
     </div>
   </div>
   <!--wrapper About Us-->
-<!--wrapper video CTA-->
-{% if page.video_area.enable %}
-  <div class="video-area">
-  <div class="wrapper image-wrapper bg-image gradient-overlay inverse-text" data-image-src="{{page.video_area.image}}">
-    <div class="container inner pt-140 pb-140 text-center">
-      <div class="row">
-        <div class="col-md-7 mx-auto">
-          <h2 class="section-title text-center">{{page.video_area.title}}</h2>
-          <p class="lead larger text-center">{{page.video_area.sub_title}}</p>
-          <div class="space10"></div>
-          <div class="light-gallery-wrapper">
-            <a href="{{page.video_area.video_url}}" class="btn-play lightbox"></a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-  {% endif %}
-<!--/.wrapper video CTA-->
 <!-- clients carousel wrapper-->
-<div class="wrapper gray-wrapper">
+<!--<div class="wrapper gray-wrapper">
     <div class="container inner">
         {% if page.clients_carousel.enable %}
       
       {% include clients_carousel.html %}
       {% endif %}
     </div>
-</div>
+</div>-->
 <!--/.wrapper clients carousel-->
 <!-- wrapper team members-->
 {% include team_members.html %}
@@ -164,28 +123,8 @@ contact_area:
         <h2 class="title-color color-gray text-center">{{page.contact_area.title}}</h2>
         <h3 class="display-3">{{page.contact_area.sub_title}}</h3>
         <div class="space50"></div>
-        <div class="row text-center gutter-60">
-          {% for contact_data in page.contact_area.contact_data %}
-          <div class="col-md-4">
-            {% if contact_data.icon %}
-            <div class="icon icon-svg mb-20">
-              <img src="{{contact_data.icon}}" alt="{{contact_data.icon}}" />
-            </div>
-            {% endif %}
-            {% if contact_data.info %}
-            <p class="mb-0">{{contact_data.info}}</p>
-            {% endif %}
-            {% if contact_data.email_01 %}
-            <p class="mb-0"><a class="nocolor" href="mailto:{{contact_data.email_01}}">{{contact_data.email_01}}</a>
-            </p>
-            {% endif %}
-            {% if contact_data.email_02 %}
-            <p class="mb-0"><a class="nocolor" href="mailto:{{contact_data.email_02}}">{{contact_data.email_02}}</a>
-            </p>
-            {% endif %}
-          </div>
-          {% endfor %}
-          <!--/column -->
+        <div class="text-center">
+          <a href="/contact/contact" class="btn display-3 text-center" role="button">Contactar</a>
         </div>
         <!--/.row -->
       </div>

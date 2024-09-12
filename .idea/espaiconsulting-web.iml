@@ -1401,21 +1401,21 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="minitest (v5.25.0) [path][gem]" type="rubylib">
+      <library name="minitest (v5.25.1) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.0/lib" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.0/test" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.1/test" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.0/lib" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.0/test" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.1/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.1/test" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.0/test" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/minitest-5.25.1/test" />
         </excluded>
       </library>
     </orderEntry>
@@ -1580,21 +1580,21 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="rexml (v3.3.5) [path][gem]" type="rubylib">
+      <library name="rexml (v3.3.7) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.7/doc" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.7/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.7/doc" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.7/lib" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.5/doc" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/rexml-3.3.7/doc" />
         </excluded>
       </library>
     </orderEntry>
@@ -1755,25 +1755,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="strscan (v3.1.0) [path][gem]" type="rubylib">
-        <properties>
-          <option name="version" value="4" />
-        </properties>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/lib" />
-        </SOURCES>
-        <excluded>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/strscan-3.1.0/ext" />
-        </excluded>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library name="terminal-table (v1.8.0) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
@@ -1901,16 +1882,16 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="zeitwerk (v2.6.17) [path][gem]" type="rubylib">
+      <library name="zeitwerk (v2.6.18) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/zeitwerk-2.6.17/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/zeitwerk-2.6.18/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/zeitwerk-2.6.17/lib" />
+          <root url="file://$MODULE_DIR$/_vendor/ruby/2.6.0/gems/zeitwerk-2.6.18/lib" />
         </SOURCES>
       </library>
     </orderEntry>

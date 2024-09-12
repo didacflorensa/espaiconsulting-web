@@ -65,7 +65,7 @@ blockquote p,
 .display-1,
 .display-2,
 .display-3,
-.display-4, {
+.display-4 {
     font-weight: 500;
 }
 .btn {
@@ -180,6 +180,10 @@ h6.text-uppercase,
 }
 .display-3 {
     font-size: 1.65rem;
+    line-height: 2.25rem;
+}
+.display-title {
+    font-size: 2.5rem;
     line-height: 2.25rem;
 }
 .display-4 {

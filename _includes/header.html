@@ -5,7 +5,7 @@
     <div class="navbar-brand">
       <a href="{{site.url}}">
         {% if include.light_logo %}
-        <img src="{{site.data.general_settings.light_logo_1x}}"
+        <img src="{{site.data.general_settings.light_logo_1x}}" style="width: 120px"
           srcset="{{site.data.general_settings.light_logo_1x}} 1x, {{site.data.general_settings.light_logo_2x}} 2x"
           class="{% if include.logo_class %} {{include.logo_class}} {% else %} logo-light {% endif %}"
           alt="{{site.data.general_settings.title}}" />
@@ -27,19 +27,19 @@
           {% include cart_header_section.html %}
         {% endif %}
         <li class="dropdown search-dropdown position-static nav-item">
-          <a href="#" role="button" class="collapse-toggle" data-toggle="collapse" data-target=".search-dropdown-menu"
+          <!--<a href="#" role="button" class="collapse-toggle" data-toggle="collapse" data-target=".search-dropdown-menu"
             aria-haspopup="true" aria-expanded="false"><i class="jam jam-search"></i></a>
           <div class="dropdown-menu search-dropdown-menu w-100 collapse">
             <div class="form-wrapper">
               <form class="inverse-text">
                 <input type="text" id="search-input" class="form-control" placeholder="Search blog posts.." />
                 <i class="dropdown-close jam jam-close"></i>
-              </form>
+              </form>-->
               <!-- /.search-form -->
-            </div>
-            <!-- /.form-wrapper -->
+            <!--</div>-->
+            <!-- /.form-wrapper
             <ul id="results-container" class="position-static"></ul>
-          </div>
+          </div>-->
         </li>
         <li class="nav-item"><button class="plain" data-toggle="offcanvas-info"><i class="jam jam-info"></i></button>
         </li>

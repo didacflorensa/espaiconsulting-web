@@ -16,8 +16,8 @@ phone_number: ""
 copyright_text: "© 2024 Espai Consulting 24. All rights reserved."
 
 google_analytics:
-  enable: false
-  key: "UA-664136761-1"  # UA-664136761-1
+  enable: true
+  key: "G-RJG88B76PY"  # UA-664136761-1
 
 google_map: |
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.4564967931838!2d-122.03250858386237!3d37.33169997984258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb5b6e94ffe23%3A0x63bb79532baa6af4!2sApple+Campus!5e0!3m2!1sen!2str!4v1553850783971!5m2!1sen!2str" style="width:100%; height: 100%; border:0" allowfullscreen=""></iframe>
@@ -34,26 +34,26 @@ social_accounts:
     - url: "#"
       icon: "jam jam-instagram"
 
-    - url: "#"
-      icon: "jam jam-vimeo"
+    - url: "https://www.linkedin.com/company/estudi-espai-consulting-24-sl"
+      icon: "jam jam-linkedin"
       
     - url: "#"
       icon: "jam jam-youtube"
 
 
 external_links:
-  title: "Learn More"
+  title: "Sobre nosotros"
   links:
     - url: "#"
-      text: "About Us"
+      text: "Nosotros"
     - url: "#"
-      text: "Our Story"
+      text: "Historia"
     - url: "#"
-      text: "Projects"
+      text: "Proyectos"
     - url: "#"
-      text: "Pricing"
+      text: "Tarifas"
     - url: "#"
-      text: "Features"
+      text: "Características"
 
 
 external_links_02:
@@ -75,27 +75,27 @@ external_links_03:
   title: "Company"
   links:
     - url: "#"
-      text: "Our Team"
+      text: "Nosotros"
     - url: "#"
-      text: "Strategy"
+      text: "Estrategia"
     - url: "#"
-      text: "Service"
+      text: "Servicio"
     - url: "#"
-      text: "Mission"
+      text: "Misión"
     - url: "#"
-      text: "Process"
+      text: "Proceso"
 
 footer_newsletter:
-  title: "Our Newsletter"
-  sub_title: "Subscribe to our newsletter to get our news & deals delivered to your inbox!"
-  subscribe_button_text: "Join"
+  title: "La comunidad"
+  sub_title: "Subscribete a nuestra agenda para conocer más sobre IA y sus aplicaciones en tu realidad"
+  subscribe_button_text: "Únete"
 
 
 one_page_nav_settings:
   links:
-    - text: "Home"
+    - text: "Inicio"
       url: "#home"
-    - text: "Services"
+    - text: "Servicios"
       url: "#services"
     - text: "Experiences"
       url: "#experiences"
