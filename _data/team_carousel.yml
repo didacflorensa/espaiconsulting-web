@@ -5,9 +5,9 @@ members:
     image: "/assets/images/art/didac1.svg"
     social_icons:
       - icon: "jam jam-linkedin"
-        url: "https://linkedin.com"
+        url: "https://www.linkedin.com/in/d%C3%ADdac-florensa-cazorla-3862a2a7/"
       - icon: "jam jam-twitter"
-        url: "#"
+        url: "https://twitter.com/didacflorensa"
   - name: "Jaume Vall"
     designation: "Analista de datos <br class='d-none d-lg-block' /> Co-fundador"
     description: "Experto asesor técnico y consultor empresarial con más de 20 años de experiencia real."
